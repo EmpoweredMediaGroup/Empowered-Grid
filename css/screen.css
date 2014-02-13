@@ -1,0 +1,83 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 5, ../sass/grid.scss */
+.row {
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-top: 5px;
+  margin-bottom: 5px; }
+
+/* line 13, ../sass/grid.scss */
+.c-1, .c-2, .c-3, .c-4, .c-5, .c-6, .c-7, .c-8, .c-9, .c-10, .c-11, .c-12 {
+  float: left; }
+
+/* line 18, ../sass/grid.scss */
+.c-12 {
+  width: 100%; }
+
+/* line 21, ../sass/grid.scss */
+.c-11 {
+  width: 91.66666667%; }
+
+/* line 24, ../sass/grid.scss */
+.c-10 {
+  width: 83.33333333%; }
+
+/* line 27, ../sass/grid.scss */
+.c-9 {
+  width: 75%; }
+
+/* line 30, ../sass/grid.scss */
+.c-8 {
+  width: 66.66666667%; }
+
+/* line 33, ../sass/grid.scss */
+.c-7 {
+  width: 58.33333333%; }
+
+/* line 36, ../sass/grid.scss */
+.c-6 {
+  width: 50%; }
+
+/* line 39, ../sass/grid.scss */
+.c-5 {
+  width: 41.66666667%; }
+
+/* line 42, ../sass/grid.scss */
+.c-4 {
+  width: 33.33333333%; }
+
+/* line 45, ../sass/grid.scss */
+.c-3 {
+  width: 25%; }
+
+/* line 48, ../sass/grid.scss */
+.c-2 {
+  width: 16.66666667%; }
+
+/* line 51, ../sass/grid.scss */
+.c-1 {
+  width: 8.33333333%; }
+
+/* line 4, ../sass/demo.scss */
+.container {
+  width: 95%;
+  margin: 0 auto; }
+
+/* line 9, ../sass/demo.scss */
+h1.welcome-text {
+  text-align: center; }
+
+/* line 13, ../sass/demo.scss */
+.row {
+  margin-top: 15px;
+  height: 2em; }
+
+/* line 17, ../sass/demo.scss */
+.c-1, .c-2, .c-3, .c-4, .c-5, .c-6, .c-7, .c-8, .c-9, .c-10, .c-11, .c-12 {
+  background-color: #3c3c3c;
+  color: #fff;
+  border-radius: 8px;
+  height: 40px; }

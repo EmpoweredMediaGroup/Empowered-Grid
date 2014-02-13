@@ -1,0 +1,22 @@
+// Empowered Grid Demo Stylesheet
+
+
+.container {
+	width: 95%;
+	margin: 0 auto;
+}
+
+h1.welcome-text {
+	text-align: center;
+}
+
+.row {
+	margin-top: 15px;
+	height: 2em;
+}
+.c-1, .c-2, .c-3, .c-4, .c-5, .c-6, .c-7, .c-8, .c-9, .c-10, .c-11, .c-12 {
+	background-color: #3c3c3c;
+	color: #fff;
+	border-radius: 8px;
+	height: 40px;
+}

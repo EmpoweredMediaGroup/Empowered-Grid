@@ -1,0 +1,53 @@
+// Empowered Grid (c) 2014 Matt Urenovich 
+
+// Row Styles 
+
+.row {
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+// Column Styles 
+.c-1, .c-2, .c-3, .c-4, .c-5, .c-6, .c-7, .c-8, .c-9, .c-10, .c-11, .c-12 {
+  	float: left;
+}
+
+// Column Sizings 
+.c-12 {
+  width: 100%;
+}
+.c-11 {
+  width: 91.66666667%;
+}
+.c-10 {
+  width: 83.33333333%;
+}
+.c-9 {
+  width: 75%;
+}
+.c-8 {
+  width: 66.66666667%;
+}
+.c-7 {
+  width: 58.33333333%;
+}
+.c-6 {
+  width: 50%;
+}
+.c-5 {
+  width: 41.66666667%;
+}
+.c-4 {
+  width: 33.33333333%;
+}
+.c-3 {
+  width: 25%;
+}
+.c-2 {
+  width: 16.66666667%;
+}
+.c-1 {
+  width: 8.33333333%;
+}
